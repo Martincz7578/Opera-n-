@@ -1,0 +1,45 @@
+ls = vypíše soubory v adresáři
+ls -l = detajlnější výpis
+ls -a = ukáže schované soubory
+
+cd = přejde do adresáře
+pr. cd /temp
+
+pwd = ukáže adresář
+mkdir = vytvoří nový adresář
+rm = smaže soubor
+rm -r = smaže adresář a to co je v něm
+
+cp = kopíruje
+cp -r = kopíruje adresář
+
+mv = přesun souborů nebo přejmenuje
+př. mv {starý nazev} {nový název}
+př. mv {název} /loka/ce
+
+cat = zobrazí obsah souboru
+less = zobrazí obsah souboru na stránkách (q pro vypnutí)
+head = ukáže pvních 10 řádků
+př. head -n 20 --- zobrazí 20 řádků
+
+tail -f log_{soubor} --- log v realném čase
+
+nano = upravuje .txt soubor
+
+df = ukáže akce na dsiku(-h pro přečtená)
+du = místo na disku
+
+free = využití na RAM (-h pro přečtení)
+
+find = najde soubor
+př. faind /{cesta} -anem .txt
+
+greb = hledá v textu
+
+locate = rychle hledá
+
+sudo = admin spouštění
+
+kill = vypne program
+
+ssh = připojen k serveru
