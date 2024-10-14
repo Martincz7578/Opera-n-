@@ -32,7 +32,7 @@ du = místo na disku
 free = využití na RAM (-h pro přečtení)
 
 find = najde soubor
-př. faind /{cesta} -anem .txt
+př. find /{cesta} -name .txt
 
 greb = hledá v textu
 
