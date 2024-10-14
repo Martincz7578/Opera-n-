@@ -42,4 +42,12 @@ sudo = admin spouštění
 
 kill = vypne program
 
+ps = zobrazí aktivní programy
+
+ping = ověří připojení
+
+scp = kopíruje soubory mezi servery
+
+apt = aplikace...
+
 ssh = připojen k serveru
